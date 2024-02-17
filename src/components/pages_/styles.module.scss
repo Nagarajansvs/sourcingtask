@@ -1,0 +1,25 @@
+
+
+// Product
+.product_slider
+{
+  padding: 1rem 0;
+  .mainproduct
+  {
+    background: red;
+    .cardproduct
+    {
+      padding: 5px;
+      background: var(--primary-color);
+      box-shadow: 0px 3px 16px rgba(47, 83, 109, 0.12);
+      border-radius: 20px;
+      margin-bottom: 40px;
+      overflow: hidden;
+      transition: all 0.3s ease-in-out;
+      .card-media
+      {
+
+      }
+    }
+  }
+}
